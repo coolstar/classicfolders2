@@ -1,0 +1,2 @@
+@interface CSClassicFolderTextField : UITextField
+@end
